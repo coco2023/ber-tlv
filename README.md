@@ -1,4 +1,4 @@
-# [reply from ChatGtp](https://chatgpt.com/share/69b28778-191c-8012-88cf-ca98108ddd20)
+# [reply from ChatGpt](https://chatgpt.com/share/69b28778-191c-8012-88cf-ca98108ddd20)
 
 ## 背景：
 主播最近工作遇到了使用ber-tlv的格式送值问题。但是发现卡组文档的对于用ber-tlv格式送值要求更多变，使用chatgpt生成ber-tlv方法已经不能正确送值。故前来学习本仓库用法。
